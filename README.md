@@ -1,4 +1,4 @@
-Se https://github.com/alvesvaren/bombfest-ui
+Se https://github.com/alvesvaren/bombfest-ui och https://github.com/alvesvaren/bombfest för projektet
 
 
 # Slutprojektet WU2 @ NTI Johanneberg VT22

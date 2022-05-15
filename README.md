@@ -1,4 +1,6 @@
-Se https://github.com/alvesvaren/bombfest-ui och https://github.com/alvesvaren/bombfest för projektet
+# Bombfest - typ klon av bombparty fast som fungerar på svenska och använder sig av html istället för canvas
+
+Se https://github.com/alvesvaren/bombfest-ui och https://github.com/alvesvaren/bombfest för projektets kod och https://bombfest.svaren.dev för en hostad version av spelet :)
 
 
 # Slutprojektet WU2 @ NTI Johanneberg VT22
